@@ -29,3 +29,5 @@ resources = {
     "milk": 200,
     "coffee": 100,
 }
+
+input('What would you like? ')
